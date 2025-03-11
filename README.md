@@ -20,7 +20,4 @@ Este é um aplicativo simples de rastreamento de tarefas utilizando **JavaScript
 - PHP (para futura integração com banco de dados)
 - Google Fonts Icons
 
-## 📷 Captura de Tela 
-
-![Interface do Rastreador de Tarefas](https://via.placeholder.com/400x300?text=Rastreador+de+Tarefas)
 
